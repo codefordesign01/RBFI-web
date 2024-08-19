@@ -1,0 +1,96 @@
+
+body{
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+.navbar{
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0px 100px;
+}
+.navbar > ul{
+	list-style: none;
+	display: flex;
+}
+.navbar > ul > li{
+	margin-left: 20px;
+}
+.navbar > ul > li > a{
+	color: white;
+	padding: 10px 20px;
+	border-radius: 8px;
+}
+.navbar > ul > li > a:hover{
+	background-color: red;
+}
+.banner{
+	height: 500px;
+	background-image: url("../media/slide_01.jpg");
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.red{
+	color: red;
+}
+.white{
+	color: white;
+}
+.product{
+	display: flex;
+	justify-content: space-between;
+	padding: 50px 100px 0px 100px;
+}
+.card{
+	width: 30%;
+	border:1px solid black;
+	border-radius: 8px;
+}
+.card > img{
+	border-radius: 8px 8px 0px 0px;
+}
+.cardBody{
+	padding: 10px 20px;
+}
+.cardBody > h2{
+	margin-top: 0px;
+	color: blue;
+}
+.cardBody > button{
+	width: 100%;
+	padding: 15px 0px;
+	background-color: red;
+	color: white;
+	border:none;
+	border-radius: 8px;
+}
+.about{
+	display: flex;
+	padding: 50px 100px;
+}
+.left{
+	width: 50%;
+}
+.left button{
+	padding: 15px 40px;
+	background-color: red;
+	color: white;
+	border:none;
+	border-radius: 8px;
+}
+.right{
+	width: 50%;
+}
+footer{
+	padding: 20px 100px;
+	background-color: black;
+	text-align: center;
+}
+footer p{
+	text-align: center;
+}
