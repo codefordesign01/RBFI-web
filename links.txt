@@ -1,0 +1,22 @@
+font style
+
+https://fonts.google.com/
+
+icons website
+
+https://fontawesome.com/
+
+cdn
+https://cdnjs.com/libraries/font-awesome
+
+shadow website
+
+https://getcssscan.com/css-box-shadow-examples
+
+images webiste
+
+https://unsplash.com
+
+
+youtube
+https://www.youtube.com/@code-4-design
